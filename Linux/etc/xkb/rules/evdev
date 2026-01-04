@@ -1,0 +1,5 @@
+! option   = symbols
+  us_metziger:us  = +us_metziger(us)
+  ru_metziger:ru  = +ru_metziger(ru) 
+
+! include %S/evdev
